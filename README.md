@@ -1,4 +1,4 @@
 # TWRP tree for gts28vewifi
 
 Kernel source:
-https://github.com/LineageOS/android_kernel_samsung_msm8976/tree/79672c7bdcfff3b0ad1f6b9346508d38c7360a1a
+https://github.com/luk1337/android_kernel_samsung_msm8976/tree/b24ce11ed14358b3903b4ca1d73f12008a7a783f
