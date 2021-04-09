@@ -6,7 +6,7 @@ Add to `.repo/local_manifests/gts28vewifi.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="ripee/android_device_samsung_gts28vewifi" path="device/samsung/gts28vewifi" remote="github" revision="android-7.1" />
+  <project name="msm8976-common/android_device_samsung_gts28vewifi" path="device/samsung/gts28vewifi" remote="github" revision="android-7.1" />
 </manifest>
 ```
 
