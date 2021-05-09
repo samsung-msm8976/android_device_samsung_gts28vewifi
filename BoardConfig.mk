@@ -54,6 +54,7 @@ BOARD_MKBOOTIMG_ARGS := --base 0x80000000 --ramdisk_offset 0x02000000 --tags_off
 
 # Crypto
 TARGET_HW_DISK_ENCRYPTION := true
+TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/cryptfs_hw
 
 # Recovery
 RECOVERY_VARIANT := twrp
@@ -81,3 +82,5 @@ TW_INCLUDE_CRYPTO := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_NO_REBOOT_BOOTLOADER := true
 TW_THEME := portrait_hdpi
+
+TW_DEVICE_VERSION := 1
